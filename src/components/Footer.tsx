@@ -1,4 +1,4 @@
-//footer
+
 
 function Footer() {
   return (
